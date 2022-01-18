@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8" apprev="17841" appversion="6.1.0">
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-298.174">
+      <start tilt="-10.5347" fov="70" pan="19.7681" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:36" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node8" customnodeid="" tags="360" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-1.2" description="" target="" pan="-302.56" url="{node2}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-272.885">
+      <start tilt="-12.1789" fov="70" pan="-1.81987" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:39" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node2" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-3.44" description="" target="" pan="-2.37" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-8.34" description="" target="" pan="-108.24" url="{node8}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-89.5865">
+      <start tilt="-10.1073" fov="70" pan="-5.55255" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:40" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node3" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-3.5" description="" target="" pan="-182.86" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-9.2" description="" target="" pan="-7.03" url="{node61}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" tilt="-19.52" description="ALCAZAR&#xa;  &#xa;En este sector se encuentran accesos a departamentos interiores del buque como entrepuentes, camarotes, oficinas, cocina y panadería. En su centro se encuentra el puesto de guardia del buque y es donde se instala la pasarela del portalón cuando el buque se encuentra en puerto. Cuenta además con la escala real para cuando el buque se encuentra fondeado a la gira. &#xa;  &#xa;El B.E. Esmeralda cuenta con dos: a babor y estribor. " target="" pan="-5.42" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-179.76">
+      <start tilt="-4.38638" fov="70" pan="178.641" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:10" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node4" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.53" description="" target="" pan="-182.23" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="-6.41" description="" target="" pan="-81.27" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.06" description="" target="" pan="-6.78" url="{node42}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-18.01" description="" target="" pan="-353.04" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-260.666">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:04" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node5" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-2.17" description="" target="" pan="-357.17" url="{node52}" skinid="ht_node"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.2" description="" target="" pan="-166.95" url="{node61}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-177.11">
+      <start tilt="2.31334" fov="70" pan="178.023" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:08" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node6" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.0399999" description="" target="" pan="-719.37" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.00999994" description="" target="" pan="-182.42" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-0.23" description="" target="" pan="-69.62" url="{node19}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="67.07" description="" target="" pan="-21.56" url="{node51}" skinid="ht_node"/>
+      <hotspot id="Point05" title="SAMSUNG" tilt="19.77" description="" target="" pan="-38.55" url="{node49}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-182.134">
+      <start tilt="-9.12003" fov="70" pan="176.546" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:07" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node7" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.52" description="" target="" pan="-5.67" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="4.23" description="" target="" pan="-180.67" url="{node9}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-175.904">
+      <start tilt="-10.4145" fov="70" pan="-173.638" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:06" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node9" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.15" description="" target="" pan="-358.92" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.14" description="" target="" pan="-173.96" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-186.248">
+      <start tilt="-9.62924" fov="70" pan="176.389" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:05" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node10" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.82" description="" target="" pan="-358.07" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.96" description="" target="" pan="-185.95" url="{node11}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-180.979">
+      <start tilt="-14.4444" fov="70" pan="-176.318" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:05" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node11" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.69" description="" target="" pan="-358.9" url="{node10}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-1.33" description="" target="" pan="-152.74" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-181.32">
+      <start tilt="-19.4921" fov="70" pan="173.845" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:03" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node12" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.51" description="" target="" pan="-318.44" url="{node11}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-2.27" description="" target="" pan="-179.54" url="{node13}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="0.69" description="" target="" pan="-39.47" url="{node14}" skinid="ht_node"/>
+      <hotspot id="Point04" title="" tilt="-16.95" description="CASTILLO &#xa;  &#xa;En este lugar del buque se encuentran cañones de saludo, maniobra de fondeo, cabrestante, acceso al bauprés y la maniobra para las velas foques que se hacen firmes a este palo. &#xa;  &#xa;Se ubica en el sector de más a proa del buque. " target="" pan="-177.79" url="" skinid="ht_info"/>
+      <hotspot id="Point05" title="" tilt="-2.94" description="CABRESTANTE &#xa;  &#xa;Este elemento es utilizado para trabajar con la maniobra de fondeo, ya que se usa para levantar el Ancla cuando esta está en el agua (anclas y cadenas) es alimentado eléctricamente. &#xa;  &#xa;Está ubicado en el sector de castillo del buque. " target="" pan="-357.93" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-186.507">
+      <start tilt="-9.86042" fov="70" pan="171.909" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:02" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node13" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-9.8" description="" target="" pan="-6.86" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-173.469">
+      <start tilt="-8.72544" fov="70" pan="-0.397342" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:01" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node14" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.63" description="" target="" pan="-206.7" url="{node12}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="4.76" description="" target="" pan="-3.34" url="{node15}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-188.662">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:00" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node15" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.27" description="" target="" pan="-194.23" url="{node14}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.61" description="" target="" pan="-10.44" url="{node16}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-177.493">
+      <start tilt="-7.33626" fov="70" pan="2.45649" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:59" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node16" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="5.82" description="" target="" pan="-180.05" url="{node15}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.55" description="" target="" pan="-4.66" url="{node17}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.97166" fov="70" pan="177.146" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:59" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node17" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.95" description="" target="" pan="-2.9" url="{node16}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.63" description="" target="" pan="-179.28" url="{node18}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-3.53294">
+      <start tilt="-4.91138" fov="70" pan="174.908" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:53" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node18" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.89" description="" target="" pan="-4.8" url="{node17}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.44" description="" target="" pan="-187.92" url="{node19}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="8.26444" fov="70" pan="-178.414" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:53" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node19" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.19" description="" target="" pan="-359.04" url="{node18}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.94" description="" target="" pan="-74.19" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="2.77" description="" target="" pan="-183" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="28.22" description="" target="" pan="-127.58" url="{node49}" skinid="ht_node"/>
+      <hotspot id="Point05" title="SAMSUNG" tilt="70.89" description="" target="" pan="-156.48" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-3.59974">
+      <start tilt="-4.89706" fov="70" pan="176.129" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:52" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node20" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.42" description="" target="" pan="-362.84" url="{node19}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="4.51" description="" target="" pan="-181.39" url="{node21}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="0.9" description="" target="" pan="-81.09" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="-21.52" description="" target="" pan="-200.6" url="{node67}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-7.68441" fov="70" pan="-179.937" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:50" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node21" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.92" description="" target="" pan="-1.23" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.96" description="" target="" pan="-177.78" url="{node22}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.06417" fov="70" pan="178.286" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:49" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node22" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.42" description="" target="" pan="-2.57" url="{node21}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.57" description="" target="" pan="-174.13" url="{node23}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="79.22" description="" target="" pan="-38.99" url="{node51}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="24.69" description="" target="" pan="-15.06" url="{node47}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.32267" fov="70" pan="-179.357" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:48" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node23" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.75" description="" target="" pan="-357.76" url="{node22}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.09" description="" target="" pan="-175.52" url="{node24}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="66.87" description="" target="" pan="-18.56" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="4.27228">
+      <start tilt="-1.46893" fov="70" pan="-172.991" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:48" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node24" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.39" description="" target="" pan="-353.77" url="{node23}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.16" description="" target="" pan="-204" url="{node25}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-176.326">
+      <start tilt="-0.84656" fov="70" pan="-1.00102" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:47" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node25" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-1.59" description="" target="" pan="-211.15" url="{node24}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.59" description="" target="" pan="-354.99" url="{node26}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-43.21" description="" target="" pan="-177.44" url="{node61}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-170.324">
+      <start tilt="-1.39949" fov="70" pan="3.65131" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:46" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node26" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.33" description="" target="" pan="-168.41" url="{node25}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.39" description="" target="" pan="-350.37" url="{node27}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-170.511">
+      <start tilt="-7.41048" fov="70" pan="4.30741" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:45" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node27" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.97" description="" target="" pan="-174.76" url="{node26}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.07" description="" target="" pan="-350.41" url="{node28}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-174.411">
+      <start tilt="-9.08654" fov="70" pan="0.405004" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:45" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node28" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="4.95" description="" target="" pan="-176.62" url="{node27}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.23" description="" target="" pan="-356.4" url="{node29}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-170.66">
+      <start tilt="-10.5056" fov="70" pan="14.4896" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:43" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node29" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="5.51" description="" target="" pan="-167.37" url="{node28}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.53" description="" target="" pan="-344.89" url="{node30}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-174.816">
+      <start tilt="-10.7653" fov="70" pan="35.9441" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:43" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node30" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="6.37" description="" target="" pan="-173.33" url="{node29}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.33" description="" target="" pan="-288.2" url="{node31}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="1.84" description="" target="" pan="-332.92" url="{node32}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node31" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-176.652">
+      <start tilt="-10.9023" fov="70" pan="5.90359" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:42" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node31" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.0700008" description="" target="" pan="-86.45" url="{node30}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="1.72" description="" target="" pan="-266.65" url="{node33}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" tilt="13.03" description="TOLDILLA &#xa;  &#xa;En este lugar se encuentra la campana, rueda de gobierno secundaria, además de la maniobra correspondiente al velamen del palo mesana y cubichete del comandante. Normalmente en este sector del buque se llevan a cabo las formaciones de la dotación. &#xa;  &#xa;La toldilla es el sector de más a popa del buque. " target="" pan="-344.82" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-200.301">
+      <start tilt="-0.61138" fov="70" pan="-11.0365" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 8:41" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node32" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.67" description="" target="" pan="-150.21" url="{node30}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="5.69" description="" target="" pan="-228.16" url="{node33}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" tilt="10.02" description="RUEDA DE GOBIERNO (TOLDILLA) &#xa;  &#xa;Esta rueda es uno de los sistemas secundarios de gobierno con los que cuenta el buque y se encuentra en el sector de toldilla. " target="" pan="-189.23" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="2.92858">
+      <start tilt="-6.89612" fov="51.1473" pan="-7.4311" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:22" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node33" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="4.29" description="" target="" pan="-208.77" url="{node32}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.8" description="" target="" pan="-0.85" url="{node34}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="0.57" description="" target="" pan="-254.07" url="{node31}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node34" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.24004" fov="70" pan="-2.59604" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:21" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node34" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.74" description="" target="" pan="-177.91" url="{node33}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.68" description="" target="" pan="-356.05" url="{node35}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.95861" fov="70" pan="-1.67399" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:19" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node35" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.36" description="" target="" pan="-182.22" url="{node34}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.81" description="" target="" pan="-359.02" url="{node36}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.81951" fov="70" pan="0.201069" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:18" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node36" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.0200002" description="" target="" pan="-177.32" url="{node35}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.86" description="" target="" pan="-358.12" url="{node37}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.38142" fov="70" pan="-2.49441" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:17" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node37" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="4.03" description="" target="" pan="-179.16" url="{node36}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="2.13" description="" target="" pan="-1.34" url="{node38}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="9.15653">
+      <start tilt="-6.72246" fov="70" pan="11.4459" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:16" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node38" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="6.16" description="" target="" pan="-172.41" url="{node37}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-1.67" description="" target="" pan="-323.61" url="{node39}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-26.37" description="" target="" pan="-358.14" url="{node63}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-5.37093">
+      <start tilt="-4.98864" fov="70" pan="-9.43757" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:15" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node39" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.24" description="" target="" pan="-146.09" url="{node38}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="1.82" description="" target="" pan="-12.53" url="{node40}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="2.37996" fov="70" pan="-4.0326" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:15" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node40" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.61" description="" target="" pan="-177.89" url="{node39}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.29" description="" target="" pan="-2.97" url="{node41}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.99434" fov="70" pan="-7.61965" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:13" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node41" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.1" description="" target="" pan="-181.24" url="{node40}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.55" description="" target="" pan="-6.33" url="{node42}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-11.3751">
+      <start tilt="6.84162" fov="70" pan="-4.58824" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 9:12" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node42" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.4" description="" target="" pan="-194.53" url="{node41}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.45" description="" target="" pan="-13.79" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="39.19" description="" target="" pan="-328.45" url="{node43}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-12.4101" fov="70" pan="-42.9835" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:17" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node43" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-49.82" description="" target="" pan="-93.87" url="{node42}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.92" description="" target="" pan="-40.41" url="{node44}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="4.08" description="" target="" pan="-173.65" url="{node45}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="-0.1" description="" target="" pan="-356.2" url="{node47}" skinid="ht_node"/>
+      <hotspot id="Point05" title="" tilt="-8.67" description="PUENTE DE MANDO &#xa;  &#xa;El puente de mando es desde donde se lleva la navegación del buque y donde está el control de rumbo y órdenes a la máquina. &#xa;  &#xa;Está ubicado en la cubierta superior sobre la sala de navegación de Guardiamarina y se tiene acceso a él desde la cubierta principal por ambas bandas. " target="" pan="-354.8" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-89.0745">
+      <start tilt="-15.8668" fov="70" pan="-154.585" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:14" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node44" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.3" description="" target="" pan="-315" url="{node43}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.80358" fov="70" pan="-175.773" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:18" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node45" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.64" description="" target="" pan="-180.62" url="{node46}" skinid="ht_node"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.21" description="" target="" pan="-4.21" url="{node43}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.91387" fov="70" pan="-175.138" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:18" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node46" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.85" description="" target="" pan="-356.84" url="{node45}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-172.895">
+      <start tilt="-7.32276" fov="70" pan="-176.364" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:16" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node47" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.27" description="" target="" pan="-307.41" url="{node43}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="4.49" description="" target="" pan="-75.65" url="{node48}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-0.74" description="" target="" pan="-168.17" url="{node49}" skinid="ht_node"/>
+      <hotspot id="Point04" title="Presentación" tilt="0.97" description="" target="" pan="-183.7" url="DgTl-9kZ2qk" skinid="ht_video_youtube"/>
+      <hotspot id="Point05" title="SAMSUNG" tilt="-9.16" description="" target="" pan="-26.54" url="{node22}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node48" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-274.159">
+      <start tilt="-9.37188" fov="70" pan="174.297" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:30" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node48" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.93" description="" target="" pan="-349.73" url="{node47}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="3.58863">
+      <start tilt="-5.35317" fov="70" pan="-0.635243" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:11" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node49" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-32.23" description="" target="" pan="-293.38" url="{node19}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.14" description="" target="" pan="-179.43" url="{node47}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-21.03" description="" target="" pan="-35.26" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="78.99" description="" target="" pan="-173.06" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="7.19248">
+      <start tilt="-2.56467" fov="70" pan="2.56287" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:10" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node50" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="6.22" description="" target="" pan="-242.22" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="6.24" description="" target="" pan="-104.41" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node51" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-407.069">
+      <start tilt="-25.2717" fov="70" pan="-55.5026" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 11:37" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node51" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-58.48" description="" target="" pan="-45.18" url="{node19}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-57.92" description="" target="" pan="-65.71" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" tilt="6.27" description="PALOS &#xa;  &#xa;El buque cuenta con 4 palos más un bauprés. Estos palos son: &#xa;  &#xa;1) Trinquete &#xa;2) Mayor proel &#xa;3) Mayor popel &#xa;4) Mesana &#xa;  &#xa;De estos solo el trinquete cuenta con vergas, el resto de los palos cuentan con una botavara, pico y mastelerillo y en estos se hacen firmes las velas con las que el buque navega. " target="" pan="-56.64" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node52" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="3.34992" fov="70" pan="-14.6114" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:05" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node52" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.62" description="" target="" pan="-190.66" url="{node5}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.67" description="" target="" pan="-11.51" url="{node54}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node54" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="4.6671" fov="70" pan="178.888" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:06" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node54" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="0.98" description="" target="" pan="-352.84" url="{node52}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="1.12" description="" target="" pan="-172.34" url="{node55}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node55" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.27248" fov="70" pan="-179.911" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:07" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node55" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="2.02" description="" target="" pan="-4.11" url="{node54}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.17" description="" target="" pan="-181.17" url="{node56}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" tilt="8.92" description="BUSTO DE PRAT &#xa;  &#xa;El busto del héroe máximo de la Armada se encuentra en la entrada del cubichete del Comandante en el sector de popa del pasillo alto de oficiales. " target="" pan="-144.29" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.79858" fov="70" pan="2.42633" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:17" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node56" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.53" description="" target="" pan="-172.44" url="{node55}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.47" description="" target="" pan="3.39" url="{node60}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node60" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.14614" fov="70" pan="-145.86" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:03" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node60" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.18" description="" target="" pan="-23.52" url="{node56}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-3.4" description="" target="" pan="-113.07" url="{node57}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-2.66" description="" target="" pan="-146.22" url="{node58}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node57" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-12.6059" fov="70" pan="-177.914" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 16:59" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node57" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="4.24" description="" target="" pan="-286.48" url="{node60}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-5.93" description="" target="" pan="-176.16" url="{node58}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-1.95" description="" target="" pan="-67.99" url="{node59}" skinid="ht_node"/>
+      <hotspot id="Point04" title="" tilt="-14.43" description="CAMARA DEL COMANDANTE &#xa;  &#xa;Este espacio es donde el comandante del B.E. ESMERALDA recibe las visitas protocolares y de Estado que visitan el buque, dentro y fuera de nuestro país. &#xa;  &#xa;Está ubicada a popa del pasillo alto de oficiales y bajo la toldilla del buque, tiene acceso por el pasillo alto de oficiales y también por el cubichete del comandante que está ubicado en la toldilla bajo la botavara del palo mesana. " target="" pan="-355.85" url="" skinid="ht_info"/>
+      <hotspot id="Point05" title="SAMSUNG" tilt="0.82" description="" target="" pan="-329.78" url="{node56}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node58" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.52652" fov="70" pan="-172.175" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:01" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node58" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.15" description="" target="" pan="-350.5" url="{node57}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.52" description="" target="" pan="-307.03" url="{node60}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="-0.11" description="" target="" pan="-38.66" url="{node59}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node59" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.28321" fov="70" pan="104.243" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="26-05-2020 17:02" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node59" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.7" description="" target="" pan="-253.23" url="{node57}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.75" description="" target="" pan="-221.05" url="{node58}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node61" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="5.9683">
+      <start tilt="5.50596" fov="70" pan="-119.432" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 13:59" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node61" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="4.83" description="" target="" pan="-289.15" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-0.31" description="" target="" pan="-146.47" url="{node5}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="25.57" description="" target="" pan="-165.65" url="{node25}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="-2.04" description="" target="" pan="-76.27" url="{node62}" skinid="ht_node"/>
+      <hotspot id="Point05" title="SAMSUNG" tilt="1.04" description="" target="" pan="-354.42" url="{node68}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node62" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.6678" fov="70" pan="81.908" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 13:59" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node62" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.52" description="" target="" pan="-273.83" url="{node63}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="3.44" description="" target="" pan="-85.6" url="{node61}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node63" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-180.731">
+      <start tilt="1.63733" fov="70" pan="86.892" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:01" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node63" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="1.2" description="" target="" pan="-178.75" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-1.52" description="" target="" pan="-96.57" url="{node62}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="32.68" description="" target="" pan="-5.49" url="{node38}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node64" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-175.087">
+      <start tilt="-0.337912" fov="51.1473" pan="179.247" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:02" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node64" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="3.01" description="" target="" pan="-358.67" url="{node63}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="4.39" description="" target="" pan="-174.64" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node65" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-166.7">
+      <start tilt="-4.74214" fov="51.1473" pan="-135.15" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 14:02" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node65" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="1.33" description="" target="" pan="-349.74" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.98" description="" target="" pan="-108.54" url="{node67}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="32.57" description="" target="" pan="-154.43" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node67" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-4.091">
+      <start tilt="-1.06678" fov="51.1473" pan="173.155" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 13:57" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node67" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.54" description="" target="" pan="-39.77" url="{node65}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-3.19" description="" target="" pan="-181.87" url="{node68}" skinid="ht_node"/>
+      <hotspot id="Point03" title="SAMSUNG" tilt="1.31" description="" target="" pan="-355.89" url="{node71}" skinid="ht_node"/>
+      <hotspot id="Point04" title="SAMSUNG" tilt="21.31" description="" target="" pan="-12.95" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point05" title="" tilt="-5.17" description="CAMARA DE SUBOFICIALES Y SARGENTOS &#xa;  &#xa;Lugar donde se encuentran sala de estar y comedores de suboficiales y sargentos. Aquí fue ubicado el cuadro del sargento Juan de Dios Aldea. (Participó como Sargento 2° a bordo de la Corbeta Esmeralda en el Combate naval de Iquique). &#xa;  &#xa;Esta cámara tiene acceso por el “pasillo de la U” y un acceso secundario por el sector del Alcázar de babor. " target="" pan="-354.3" url="" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node68" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="3.2851">
+      <start tilt="1.46074" fov="51.1473" pan="-171.896" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 13:57" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node68" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-2.11" description="" target="" pan="-359.65" url="{node67}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="-2.74" description="" target="" pan="-173.15" url="{node61}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node70" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="3.0047" fov="70" pan="31.8598" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 12:20" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node70" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-1.81" description="" target="" pan="-165.31" url="{node71}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <panorama id="node71" hideabout="1">
+    <input levelbiashidpi="1.000" height="1944" width="1944" levelingpitch="0" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1" levelingroll="0">
+      <level height="1944" preload="0" width="1944" predecode="0"/>
+      <level height="972" preload="0" width="972" predecode="0"/>
+      <level height="486" preload="1" width="486" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-8.07711" fov="70" pan="-3.72094" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="120" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata datetime="25-05-2020 12:20" info="" title="SAMSUNG" author="" latitude="" longitude="" source="" description="" nodeid="node71" customnodeid="" tags="COSTURAS" copyright="" comment=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" textalpha="1" height="20" width="180" backgroundcolor="0xffffff" wordwrap="1" enabled="1" bordercolor="0x000000" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" title="SAMSUNG" tilt="-0.61" description="" target="" pan="-229.9" url="{node67}" skinid="ht_node"/>
+      <hotspot id="Point02" title="SAMSUNG" tilt="0.69" description="" target="" pan="-350.72" url="{node70}" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound mode="0" id="Himno del B" loop="-1" url="media/skin_snd_Himno del B.mp3" level="1.000" keep="1"/>
+    </media>
+    <transition zoomspeed="2" blendtime="1" type="crossdissolve" softedge="0" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" rubberband="0" invertwheel="0" speedwheel="1" hideabout="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" info="" title="" author="" latitude="" longitude="" source="" description="" nodeid="master" customnodeid="" tags="" copyright="" comment=""/>
+  </masternode>
+</tour>
